@@ -1,17 +1,18 @@
 ### Hi there 👋
 
 
-**ajh123/ajh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**ajh123/ajh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
-* Better CC
-* History Survial
-<!--- 🌱 I’m currently learning ...-->
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
+  - [Better CC](https://github.com/ajh123-development/better-cc)
+  - [History Survial](https://github.com/ajh123-development/HistorySurvival)
+<!-- - 🌱 I’m currently learning ...-->
+<!-- - 👯 I’m looking to collaborate on ...-->
+- 🤔 I’m looking for help with
+  - [History Survial](https://github.com/ajh123-development/HistorySurvival)
+<!-- - 💬 Ask me about ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/)
-<!--- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ...-->
+<!-- - 😄 Pronouns: ...-->
+- ⚡ Fun fact: He / Him
