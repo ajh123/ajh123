@@ -14,5 +14,5 @@ Here are some ideas to get you started:
   - [History Survial](https://github.com/ajh123-development/HistorySurvival)
 <!-- - 💬 Ask me about ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/)
-<!-- - 😄 Pronouns: ...-->
-- ⚡ Fun fact: He / Him
+- 😄 Pronouns: He / Him
+<!-- - ⚡ Fun fact: -->
