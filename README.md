@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with
   - [History Survial](https://github.com/ajh123-development/HistorySurvival)
 <!-- - 💬 Ask me about ...-->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/), [YouTube](https://www.youtube.com/@minecraftict)
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: -->
