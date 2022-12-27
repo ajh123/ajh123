@@ -14,6 +14,6 @@
 - 🤔 I’m looking for help with
   - [Minecart](https://github.com/ajh123-development/minecart)
 <!-- - 💬 Ask me about ...-->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/), [YouTube](https://www.youtube.com/@minecraftict)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-hulme-423210254/), [YouTube](https://www.youtube.com/@minecraftict). [Discord](https://discord.gg/MMwxg32)
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: -->
