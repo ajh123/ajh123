@@ -3,11 +3,12 @@
 
 - 🔭 I’m currently working on
   - [Better CC](https://github.com/ajh123-development/better-cc)
-  - [Minecart](https://github.com/ajh123-development/minecart)
-  - ~~[History Survial](https://github.com/ajh123-archives/HistorySurvival)~~
+  - ~~[Minecart](https://github.com/ajh123-development/minecart)~~
+  - [History Survial](https://github.com/ajh123-archives/HistorySurvival)
 
 - 🤔 I’m looking for help with
-  - [Minecart](https://github.com/ajh123-development/minecart)
+  - [History Survial](https://github.com/ajh123-archives/HistorySurvival)
+  - ~~[Minecart](https://github.com/ajh123-development/minecart)~~
 
 - 📫 How to reach me: [Join the Discord server](https://discord.gg/MMwxg32)!
 
