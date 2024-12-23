@@ -1,2 +1,4 @@
 ssh_authorized_keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKru6mr/XBWDzepPdcAXmr3CGSRKWtKPvKUFCH8zNsIs minersonline\s.hulme@Main-PC
+mounts:
+  - [ "//10.0.0.12/shares", "/mnt/SHARES", "cifs", "username=conhost,password=P@ssword1234,uid=1000,gid=1000" ]
