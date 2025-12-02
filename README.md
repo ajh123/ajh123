@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Hulme (samuellh2005) (ajh123)</h1>
 <h3 align="center">A website and Minecraft server software developer</h3>
 
-- 📝 I infrequently write articles on [samsblog.minersonline.uk](samsblog.minersonline.uk)
+- 📝 I infrequently write articles on [samsblog.minersonline.uk](https://samsblog.minersonline.uk)
 
 ### My Projects:
 
