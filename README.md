@@ -7,10 +7,11 @@
 
 | Name | Description |
 | ---- | ----------- |
-| [Miners Online](https://github.com/miners-online) | My personal Mincraft server where I experiment with server deployment infrastructure |
-| [Samland Government](https://github.com/Samland-Gov) | A political simulation I run on my Minecraft server trying to recreate real-world governments with code |
 | [CloudinatorMC](https://github.com/CloudinatorMC) | A brand new collection of infrastructure tools to enhance Minecraft server network deployments at large scales |
 | [History Survival](https://github.com/orgs/HistorySurvival/repositories) | My old game engine expirementations of trying to create a realistic Minecraft like game |
+| [Miners Online](https://github.com/miners-online) | My personal Mincraft server where I experiment with server deployment infrastructure |
+| [Minecraft Telecom](https://github.com/Minecraft-Telecom) | Bringing software compliant with ceuluar telecom standards to the Minecraft world |
+| [Samland Government](https://github.com/Samland-Gov) | A political simulation I run on my Minecraft server trying to recreate real-world governments with code |
 
 ### Connect with me:
 
